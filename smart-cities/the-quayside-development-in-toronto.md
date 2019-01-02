@@ -1,0 +1,19 @@
+---
+description: >-
+  Sidewalk Labs is developing a Master Innovation and Development Plan for
+  Quayside, a smart city demonstration neighbourhood on Toronto's waterfront.
+  The draft plan has proposed a civic data trust.
+---
+
+# The Quayside Development in Toronto
+
+Waterfront Toronto is currently undertaking the largest urban revitalization project in North America. They are bringing together the most innovative approaches to sustainable development, urban design, real estate development, and leading technology infrastructure in order to deliver on important public goals, including reducing urban sprawl, developing sustainable communities, increasing the supply of affordable housing, expanding public transit and increasing economic competitiveness. 
+
+Waterfront Toronto has established the objectives and engaged Sidewalk Labs to design a proposal for a new kind of complete community on Quayside that will serve as a model for sustainable and resilient neighbourhoods throughout Toronto and cities around the world. The Quayside project, also referred to as Sidewalk Toronto, has an ambition to address the toughest challenges facing cities—and meaningfully improve quality of life—through the combination of forward-thinking urban design and innovative technology.
+
+As part of this process, Sidewalk Labs recently released a proposed [Site Plan](https://sidewalktoronto.ca/wp-content/uploads/2018/11/18.11.29_Quayside_Draft_Site-Plan.pdf) that includes people-first streets and public realm; 40% below-market affordable housing; creates 9,000 construction jobs and houses 3,900 jobs located at Quayside; 75%-85% reduction in GHG emissions; and provides safer and less congested streets. The site plan proposes a [civic data trust](https://waterfrontoronto.ca/nbe/wcm/connect/waterfront/41979265-8044-442a-9351-e28ef6c76d70/18.10.15_SWT_Draft+Proposals+Regarding+Data+Use+and+Governance.pdf?MOD=AJPERES) with independent governance over the collection and use of urban data. The full Master Innovation and Development Plan is expected to be released for public feedback in mid-2019.  
+
+The Quayside planning process has attracted a lot of interest from the public and the media, both in Toronto and internationally. One of the top concerns for citizens, the civic tech community, and privacy experts is how personal data and public data will be collected, shared, controlled, and used in Quayside. These concerns are not unique to Quayside. We expect every city in Canada will need to address these questions within the next five years. Because Quayside presents a specific plan for a particular place, it provides the opportunity to have a more detailed, grounded, and concrete discussion about responsible data sharing. The use cases we develop in this primer are applications that are plausible for Quayside, but were selected to have relevance to cities beyond Quayside. 
+
+
+
