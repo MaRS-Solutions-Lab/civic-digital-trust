@@ -38,20 +38,18 @@ These examples are merely illustrative of a range of possible business models. W
     <tr>
       <td style="text-align:left"><b>Applicable Privacy Legislation</b>
       </td>
-      <td style="text-align:left">Freedom of Information and Protection of Privacy Act</td>
-      <td style="text-align:left">Personal Information Protection and Electronic Documents Act</td>
+      <td style="text-align:left">Freedom of Information and Protection of Privacy Act or Municipal Freedom of Information and Protection of Privacy Act</td>
+      <td style="text-align:left">Personal Information Protection and Electronic Documents Act (only if the not for profit was engaged in a commercial activity)</td>
       <td style="text-align:left">Personal Information Protection and Electronic Documents Act</td>
     </tr>
     <tr>
       <td style="text-align:left"><b>Control and Enforcement</b>
       </td>
       <td style="text-align:left">Government agency as regulator to ensure shared citizen data use does
-        not cost their privacy</td>
-      <td style="text-align:left">If a data user breaches a policy, entity can hold them accountable in
-        court; ownership or assets (data) removed.</td>
+        not violate privacy laws. End users must still comply with minimum legal standards applicable to the end user.</td>
+      <td style="text-align:left">Internal process. Compliance with regulatory standard. Entity can remove participation of data user and potentially enforce rights in court. End users must still comply with minimum legal standards applicable to the end user.</td>
       <td style="text-align:left">
-        <p>Internal process; minimum compliance with regulatory standards</p>
-        <p>Avoids scrutiny</p>
+        <p>Subject to regulatory oversight. Compliance with regulatory standard. Entity can remove participation of data user and potentially enforce rights in court. End users must still comply with minimum legal standards applicable to the end user.</p>
       </td>
     </tr>
     <tr>
@@ -91,8 +89,8 @@ These examples are merely illustrative of a range of possible business models. W
       </td>
       <td style="text-align:left">
         <ul>
-          <li>Collective</li>
-          <li>Conglomerate</li>
+          <li>Usually, Collective or Conglomerate</li>
+          <li>But could include Government, Citizens, Local Buinesses, Private Sector in general</li>
         </ul>
       </td>
     </tr>
