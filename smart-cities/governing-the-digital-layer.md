@@ -28,7 +28,9 @@ There are also potential misuses of data shared for an intended beneficial purpo
 
 ## The Need for Privacy
 
-Digital governance is also needed is to protect privacy. Privacy is recognized as a fundamental human right in the [UN Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/). Privacy [underpins](http://gilc.org/privacy/survey/intro.html) human dignity and the fundamental freedoms guaranteed by the Canadian Charter of Right and Freedoms. This means privacy is not only an individual right, but also a [societal good](https://digitalrightsnow.ca/). 
+Digital governance is also needed is to protect privacy and to create a medium through which different privacy rights and obligations can be reconciled.
+
+Privacy is recognized as a fundamental human right in the [UN Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/). Although privacy is no expressly mentioned in the Canadian Charter of Rights and Freedoms, privacy has been expressly recognized as an interest that is protected by section 8 of the Charter, which protects against unreasonable search and seizure. Privacy is also considered by some to [underpin](http://gilc.org/privacy/survey/intro.html) human dignity and the fundamental freedoms guaranteed by the Canadian Charter of Right and Freedoms. Under this conception of privacy, privacy is not only an individual right, but also a [societal good](https://digitalrightsnow.ca/). 
 
 {% hint style="info" %}
 Part I Section 2 of the _Canadian Charter of Rights and Freedoms_ guarantees four fundamental freedoms for everyone in Canada**:**
@@ -41,10 +43,16 @@ Part I Section 2 of the _Canadian Charter of Rights and Freedoms_ guarantees fou
 [https://laws-lois.justice.gc.ca/eng/const/page-15.html](https://laws-lois.justice.gc.ca/eng/const/page-15.html) 
 {% endhint %}
 
-Canada has a federal privacy law called the [Personal Information Protection and Electronic Documents Act ](https://laws-lois.justice.gc.ca/eng/acts/p-8.6/)\(PIPEDA\). Ontario has the [Freedom of Information and Protection of Privacy Act \(FIPPA](http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_90f31_e.htm)\) to protect the privacy of individuals and the [Personal Health Information Protection Act \(PHIPA\)](http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_04p03_e.htm) to protect the privacy of individuals who receive health care.
+The rights granted in the Charter are not absolute. They are subject to reasonable limits prescribed by law that can be justified in a free and democratic society (Section 1).
+
+When discussing privacy, it is important to distinguish between different types of privacy interests. The Supreme Court of Canada [has recognized] (http://canlii.ca/t/g7dzn) three types of privacy interests - informational (information about a person), personal (bodily), territorial (own's home or private space).
+
+The types of privacy interests involved in civic digital trusts are primarily informational. Canada has federal and provincial laws that operate within the limits of the Charter to protect individual informational privacy interests while recognizing the needs for governments, public sector organizations and private sector organizations to collect, use and disclose personal information. For example, the federal [Privacy Act] (http://canlii.ca/t/7vk9) protects the privacy of individuals with respect to personal information about themselves held by a government institution and provides individuals with a right of access to that information. In Ontario, the [Freedom of Information and Protection of Privacy Act] (http://canlii.ca/t/2d9) fulfills a similar purpose for provincial government institutions and the [Municipal Freedom of Information and Protection of Privacy Act] (http://canlii.ca/t/2k1)\(MFIPPA\) governs municipal corporations, such as the City of Toronto. There is also a [Personal Health Information Protection Act] (http://canlii.ca/t/32t) in Ontario that applies primarily to hospitals and regulated health professionals when the collect, use and disclose personal health information for the purpose of providing healthcare to an individual.
+
+Ontario (unlike Alberta, British Columbia and Quebec) does not have a private sector privacy law. Ontario also does not expressly recognize privacy as a fundamental human right (unlike [Quebec]) (http://canlii.ca/t/x8d). Instead, the federal [Personal Information Protection and Electronic Documents Act] (http://canlii.ca/t/7vwj) contains the rules that govern organizations that collect, use or disclose personal information in the course of a commercial activity.
 
 {% hint style="info" %}
-Personal information is data about an “identifiable individual”. It is information that on its own or combined with other pieces of data, can identify _you_ as an individual... it can mean information about your:
+Under these laws, "personal information" is usually defined as information "about an identifiable individual”. It is data that on its own or combined with other pieces of data, can identify _you_ as an individual... it can mean information about your:
 
 * race, national or ethnic origin,
 * religion,
@@ -58,9 +66,13 @@ Personal information is data about an “identifiable individual”. It is infor
 [https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/02\_05\_d\_15/](https://www.priv.gc.ca/en/privacy-topics/privacy-laws-in-canada/02_05_d_15/)
 {% endhint %}
 
-A cornerstone of current privacy legislation is the notion of consent. In a smart city, where sensors are embedded in roads, streetlights and public spaces, it becomes difficult, if not impossible, to provide meaningful consent. 
+The rules governing when personal information can be collected and how it can be used are not the same in the public sector and the private sector. In the public sector, public bodies can collect personal information _without consent_ as long as it is authorized by a law that complies with the Charter and notice is provided to the individual. By contrast, in the private sector, express or implied consent of the individual is a requirement, with limited exceptions. 
 
-Current privacy legislation requires consent to be provided in advance for a particular use. In a smart city, data often has greater value for the many secondary uses that may not have been foreseen at the time of collection. One way data is different than physical resources is it [becomes more usefu](https://www.forbes.com/sites/bernardmarr/2018/03/05/heres-why-data-is-not-the-new-oil/#14b11403aa96)l the more it is used. 
+In a smart city, where sensors are embedded in roads, streetlights and public spaces, it becomes difficult, if not impossible, for private sector organizations to obtain meaningful consent from individuals. It can also be challenging for municipal governments and other public sector insitutions to give meaningful notice to individuals.
+
+There are also differences between how informaiton that has been collected can be used. For private sector organizations, consent must be provided for specified uses. However, public sector organizations may be able to use information for uses that are consistent with the original purpose for collection. In the healthcare context, health information custodians generally, but do not always require consent to the collection, use and disclosure of personal information.  
+
+In a smart city, data often has greater value for the many additional uses that may not have been foreseen at the time of collection. One way data is different than physical resources is it [becomes more usefu](https://www.forbes.com/sites/bernardmarr/2018/03/05/heres-why-data-is-not-the-new-oil/#14b11403aa96)l the more it is used. Given the public-private partnerships that may be involved in a smart city, the differences in the privacy legislation applying to the different parties complicates the abiltiy to collaborate on new uses.
 
 Privacy by Design is a framework for safeguarding privacy developed by former Ontario Information and Privacy Commissioner Ann Cavoukian. It is now a global standard that has been adopted by the International Assembly of Privacy Commissioners and Data Protection Authorities. 
 
