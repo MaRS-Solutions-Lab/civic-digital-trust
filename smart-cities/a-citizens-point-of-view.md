@@ -1,7 +1,3 @@
----
-description: I'm a citizen. Why should I care about a civic digital trust?
----
-
 # From the Citizen's Point of View
 
 As a smart citizen considering if you want your city to be smart and your data to be shared, there are two sides of the coin: benefits/opportunities and costs/risks.

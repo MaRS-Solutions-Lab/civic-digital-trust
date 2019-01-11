@@ -1,10 +1,3 @@
----
-description: >-
-  With all the hype of a smart city... what is it
-  really?                                                  Why should we want
-  our cities to be smart?
----
-
 # What is a Smart City?
 
 The Greater Toronto Area is Canada's most populous metropolitan area, and this year alone it has [grown](http://worldpopulationreview.com/world-cities/toronto-population/) by more than 200,000 people. Canada has one of the world's highest rates of urbanization at [82% of the population](https://tradingeconomics.com/canada/urban-population-percent-of-total-wb-data.html).  Cities the world over are growing at an astonishing rate. Every week, [1.5 million people](http://smartcityhub.com/governance-economy/urbanization-insights-in-a-global-megatrend/) join the urban population. People are drawn to the economic opportunity, cultural vibrancy, and quality of life that big cities like Toronto offer. 

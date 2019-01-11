@@ -1,9 +1,3 @@
----
-description: >-
-  What if we shared data about building use to dynamically optimize the use of
-  flexible living and working spaces?
----
-
 # Sharing Building Space Data
 
 ![http://pauleposition.com/babelweb/projets/corrupti-est-illum-sequi-ea-et/](../.gitbook/assets/image%20%283%29.png)

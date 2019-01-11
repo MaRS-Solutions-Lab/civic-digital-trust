@@ -1,9 +1,3 @@
----
-description: >-
-  Participants in the civic digital trust workshop formed a group to consider
-  who else needs to participate in this conversation.
----
-
 # Broad Citizen and Stakeholder Engagement
 
 During the civic digital trust workshop, participants identified some next steps for engaging citizens and stakeholders in a broader conversation. This section summarizes their advice. 

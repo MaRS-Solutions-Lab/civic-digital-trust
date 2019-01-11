@@ -1,10 +1,3 @@
----
-description: >-
-  A trust is a legal agreement that creates a fiduciary responsibility between
-  the trustees who manage an asset, and the beneficiaries who benefit from the
-  assets held in trust.
----
-
 # What is a Trust?
 
 Irwin Law's Canadian Online Legal Dictionary [defines a trus](https://www.irwinlaw.com/cold/trusts)t as: "An arrangement under which money or other property is held by one person, often a trust company, for the benefit of another person or persons. These assets are administered according to the terms of the trust agreement." 

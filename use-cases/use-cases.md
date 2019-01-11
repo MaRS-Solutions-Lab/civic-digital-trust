@@ -1,10 +1,3 @@
----
-description: >-
-  We introduce four possible use cases: sharing energy usage data, building
-  usage data, mobility data, and health data. A fifth use case combines smart
-  city data with mobile and consumer data.
----
-
 # Use Cases: How a Civic Digital Trust Could Work
 
 In this section, we explore particular uses of data within a smart city that can create public value. The purpose of creating imagined scenarios of use is to have a conversation about data sharing that is more relatable to everyday life. The details of each scenario draw on earlier discussions in the Primer \(including different technical architectures and business models\), putting the theory into practice. 

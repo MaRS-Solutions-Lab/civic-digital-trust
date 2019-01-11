@@ -1,7 +1,3 @@
----
-description: What if we shared user health data to improve health and wellness outcomes?
----
-
 # Sharing Health Data
 
 ![Posted by US DOT Public Affairs](../.gitbook/assets/image.png)

@@ -1,7 +1,3 @@
----
-description: What if we shared data about energy use in homes and buildings?
----
-
 # Sharing Energy Usage Data
 
 ![Dan Sung, https://www.wareable.com/media/imager/201412/1967-original.jpg](../.gitbook/assets/image%20%282%29.png)

@@ -1,10 +1,3 @@
----
-description: >-
-  This Primer is the result of an open and ongoing co-creation process. The
-  process is convened by the MaRS Solutions Lab working in partnership with
-  Waterfront Toronto.
----
-
 # About This Primer
 
 This Primer is meant to provide an easy to read and reliable introduction to civic digital trusts. We hope this will help people inform themselves about a topic that is important to the future of cities, but not widely understood. When everyone has easy access to the facts, more people can participate more meaningfully in a better quality conversation. 

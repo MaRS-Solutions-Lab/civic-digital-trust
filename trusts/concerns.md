@@ -1,10 +1,3 @@
----
-description: >-
-  There are still many open questions about how a civic digital trust would work
-  in practice. How should it be structured? What is its scope? How will
-  governance and technical challenges be overcome?
----
-
 # Concerns and Open Questions
 
 During the civic digital trust workshop, we formed a breakout group to discuss limitations and concerns with the digital trust model. This section groups and lists the topics that were discussed and questions that were raised by the group.

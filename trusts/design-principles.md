@@ -1,8 +1,8 @@
 # Design Principles for a Civic Digital Trust
 
-Establishing a civic data trust involves making many choices: Who should the trustees be? How are they selected or elected? How do they make decisions? What decisions do they have authority to make? How are decisions enforced? How are assets managed? What roles do governments and experts play? What laws apply? How can different laws that apply to different stakeholders be reconciled? How can citizens and stakeholders have their voices heard?   
+Establishing a civic data trust involves making many choices: Who should the trustees be? How are they selected or elected? How do they make decisions? What decisions do they have authority to make? How are decisions enforced? How are assets managed? What roles do governments and experts play? What laws apply? How can different laws that apply to different stakeholders be reconciled? How can citizens and stakeholders have their voices heard?
 
-If aspirations provide a north star, design principles provide guidelines for making difficult choices. They can be useful for both establishing a civic data trust and for operating it. Design principles are most useful when they are specific and measurable. There should be no more than seven principles or they become too difficult to remember and to apply. 
+If aspirations provide a north star, design principles provide guidelines for making difficult choices. They can be useful for both establishing a civic data trust and for operating it. Design principles are most useful when they are specific and measurable. There should be no more than seven principles or they become too difficult to remember and to apply.
 
 Based on a literature review, we provided participants in the civic digital trust workshop with a draft list of design principles. Participants added to the list and then voted on the principles they thought were most important. The top four principles identified by workshop participants were to:
 
@@ -26,9 +26,9 @@ Other principles that were considered by workshop participants, but not ranked a
 
 What principles are most important to you? Complete this one survey question to have your say:
 
-{% embed url="https://www.surveymonkey.com/r/WT9WP6C" %}
+{% embed url="https://www.surveymonkey.com/r/WT9WP6C" caption="" %}
 
 Here are the survey results:
 
-{% embed url="https://www.surveymonkey.com/stories/SM-J7BDBKJ8/" %}
+{% embed url="https://www.surveymonkey.com/stories/SM-J7BDBKJ8/" caption="" %}
 

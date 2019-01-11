@@ -1,10 +1,3 @@
----
-description: >-
-  There is an opportunity to manage the complexity and expansive scope of what a
-  Smart City Civic Data Trust could include, by taking a prototyping approach to
-  identify key considerations before scaling
----
-
 # Prototyping Civic Digital Trusts
 
 Prototyping a civic digital trust has been identified as an opportunity to explore how a potential smart city civic data trust could operationalized in Toronto. A limited and narrowly defined civic digital trust prototype offers a unique opportunity to dramatically reduce the potential risks, costs and time required to extract the key learnings that are critical for advancing the exploration of a civic digital trust in Toronto. Workshop participants developed the following considerations.

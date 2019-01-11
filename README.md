@@ -1,7 +1,3 @@
----
-description: A beginner's guide to sharing smart city data for public benefit.
----
-
 # A Primer on Civic Digital Trusts
 
 ## **Welcome!**

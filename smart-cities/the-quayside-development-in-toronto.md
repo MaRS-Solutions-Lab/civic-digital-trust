@@ -1,10 +1,3 @@
----
-description: >-
-  Sidewalk Labs is developing a Master Innovation and Development Plan for
-  Quayside, a smart city demonstration neighbourhood on Toronto's waterfront.
-  The draft plan has proposed a civic data trust.
----
-
 # The Quayside Development in Toronto
 
 Waterfront Toronto is currently undertaking the largest urban revitalization project in North America. They are bringing together the most innovative approaches to sustainable development, urban design, real estate development, and leading technology infrastructure in order to deliver on important public goals, including reducing urban sprawl, developing sustainable communities, increasing the supply of affordable housing, expanding public transit and increasing economic competitiveness. 

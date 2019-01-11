@@ -1,7 +1,3 @@
----
-description: What if we shared data about vehicle traffic to reduce congestion?
----
-
 # Sharing Mobility Data
 
 ![Photo by Deva Darshan from Pexels](../.gitbook/assets/image%20%286%29.png)

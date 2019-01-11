@@ -1,10 +1,3 @@
----
-description: >-
-  Other cities and collaboratives have been experimenting with trusts to share
-  data and digital assets. What can Toronto learn from cities like Barcelona and
-  London?
----
-
 # Examples of Civic Digital Trusts
 
 There are currently only a small number of working data or digital trusts in operation, and they have not yet been independently evaluated. With the rapid growth of the smart city industry, we anticipate the number of examples will also grow quickly and there will be many more case studies to learn from. We also expect the scope and scale of digital trusts to become increasingly ambitious. Because of the limited number of city examples, we also consider related applications of trusts for governing other data sets.

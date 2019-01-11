@@ -1,9 +1,3 @@
----
-description: >-
-  What if the trust had authority for all the data collected about us in order
-  to provide advocacy for citizen's broader digital rights?
----
-
 # Combining Consumer and Public Realm Data
 
 ![Photo by Joshua Newton on Unsplash](../.gitbook/assets/image%20%281%29.png)

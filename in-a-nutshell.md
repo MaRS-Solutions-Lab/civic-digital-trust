@@ -1,7 +1,3 @@
----
-description: Summary of the findings of this primer.
----
-
 # In a Nutshell
 
 Cities are becoming smarter and more responsive to the needs of residents and visitors. There is a potential for everyone to benefit from better services and improved quality of life. Achieving these benefits is only possible if data is collected and shared to inform urban planning and service delivery.
