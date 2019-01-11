@@ -11,7 +11,7 @@ The technical architecture defines how a civic digital trust works. A legal agre
 
 The most significant choice of technical architecture is how centralized or decentralized the digital assets are held across the network. In this section we summarize five distinct architectures: centralized, semi-centralized, decentralized, open data, data marketplace, and data sharing agreements. This is meant to illustrate the variety of options, rather than be an exhaustive list.  
 
-Different technical architectures make sense for different purposes. Selecting the best architecture requires clarity and precision about the specific purpose of the trust. For example, to achieve the purpose of enhancing public services, an open data architecture may best enable the local technology community to develop new insights, products and services. 
+Different technical architectures make sense for different purposes. In addition, different technical architectures will solve for different legal requirements, particularly where stakeholders who may contribute or use data are under different legal requirements. Selecting the best architecture requires clarity and precision about the specific purpose of the trust. For example, to achieve the purpose of enhancing public services, an open data architecture may best enable the local technology community to develop new insights, products and services. However, enhancing a subset of public services - healthcare delivery - may not be achievable through open data architecture if there are legal restrictions on how hospitals can collect, use or contribute information. In these cases, a centralized architecture that reconciles legal requirements may provide the best technical architecture.
 
 ## Types of Data Sharing Models
 
