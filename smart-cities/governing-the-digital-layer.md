@@ -9,13 +9,15 @@ description: >-
 
 What makes a smart city smart is the ability to collect data, process and analyze the data, and act on the insights. In Helsinki, open data was used to develop [BlindSquare](http://www.blindsquare.com/), a mobile GPS app that helps blind and visually impaired people navigate the city. This kind of smart city application requires the collection and sharing of multiple sources of data across public and private organizations.   
 
-In order to collect and share data, a smart city adds a "digital layer" on top of the existing city infrastructure. This is similar to how an operating system adds a digital layer of software on top of the physical hardware of a computer. The difference is for a city, the digital layer is not a single thing, but a network of many connected things. The digital layer includes: 
+In order to collect and share data, a smart city adds a "digital layer" to engage existing city infrastructure. This is similar to how an operating system adds a digital layer of software on top of the physical hardware of a computer. The difference is for a city, the digital layer is not a single thing, but a network of many connected things. The digital layer includes: 
 
 * Physical sensors to collect data;
+* Digital services that use data to control other infrastructure e.g. traffic lights;
 * Databases that store the data on servers;
 * Algorithms and code to protect, manage, process, analyze and transform the data; 
-* Maps, visualizations and models that organize and project the data into more useful forms; 
-* [Application Programming Interfaces](https://medium.com/@perrysetgo/what-exactly-is-an-api-69f36968a41f) \(API\) that share specific data subsets for use in third party applications; and 
+* Maps, visualizations and models that organize and project the data into more useful forms;
+* Standards and source code for how to interact with digital services;
+* [Application Programming Interfaces](https://medium.com/@perrysetgo/what-exactly-is-an-api-69f36968a41f) \(API\) that share specific data subsets for use in third party applications both offline and in realtime; and 
 * All of the public and private services that use the data.
 
 There are four reasons governance of the digital layer is needed: protecting against data breaches and misuses; assuring individual and group privacy; advancing equitable distribution of value; and promoting economic competitiveness. 
