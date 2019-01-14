@@ -1,10 +1,3 @@
----
-description: >-
-  The civic digital trust must develop a technical architecture that defines how
-  data will be collected, stored, shared, and used. Technical architectures
-  range from centralized to decentralized.
----
-
 # Technical Architecture Options
 
 The technical architecture defines how a civic digital trust works. A legal agreement is only as good as the trust's ability to allow the secure collection, storage and sharing of data, and to have oversight and insight into the algorithms that transform the data into real world uses.

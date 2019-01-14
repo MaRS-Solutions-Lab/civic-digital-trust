@@ -50,6 +50,31 @@
       <td style="text-align:left"></td>
     </tr>
     <tr>
+      <td style="text-align:left">Nesta Blogs</td>
+      <td style="text-align:left">
+        <p><a href="https://www.nesta.org.uk/">Nesta</a>, a global innovation foundation
+          focused on solving the big challenges of our time. The following are a
+          few blogs around the issues of data, privacy and innovation.</p>
+        <p>"<a href="https://www.nesta.org.uk/blog/eight-smart-cities-are-restoring-privacy-and-empowering-citizens-data/">Eight smart cities that are restoring privacy and empowering citizens with data</a>"</p>
+        <p>"<a href="https://www.nesta.org.uk/blog/striking-a-balance-data-protection-vs-data-driven-innovation/">Striking a balance: Data protection vs. Data Driven Innovation</a>"</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">GovLab</td>
+      <td style="text-align:left">
+        <p><a href="http://www.thegovlab.org">GovLab</a>, improving people's lives
+          by changing the way we govern</p>
+        <p><a href="http://www.thegovlab.org/project-data-collaboratives-creating-public-value-by-exchanging-data.html">Data Collaboratives</a>
+        </p>
+        <p><a href="http://www.thegovlab.org/project-data-responsibility.html">Data Responsibility</a> 
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+    <tr>
       <td style="text-align:left"></td>
       <td style="text-align:left"></td>
     </tr>
