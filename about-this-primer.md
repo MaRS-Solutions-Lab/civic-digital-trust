@@ -6,22 +6,23 @@ This is not just a conversation about legal structures and data architectures. I
 
 This is a conversation that Toronto, Canada is just starting to have. The process of developing a Master Innovation and Development Plan for the Quayside smart city demonstration neighbourhood on the Toronto waterfront has started people talking about rights, freedoms, and responsibilities in the digital age. It has also prompted people to search for practical solutions to responsibly share data to unlock the potential of smart cities. 
 
-The process is convened by the MaRS Solutions Lab working in partnership with Waterfront Toronto. Partial funding has also been provided by Sidewalk Labs. The following people have been interviewed, attended co-design workshops, and/or directly contributed content to this Gitbook:
+The process is convened by the MaRS Solutions Lab working in partnership with Waterfront Toronto. Partial funding has also been provided by Sidewalk Labs. MaRS interviewed 11 national and international subject matter experts. There were 37 workshop participants, including representatives from municipal, provincial and federal government; universities and civic sector organizations; and startups, consultancies and national corporations. The co-authors and participants in this process include:
 
 | Name | Affiliation |
 | :--- | :--- |
-| Aaron Barter | Waterfront TO |
-| Alex Ryan | MaRS |
-| Chris Makris | MaRS |
-| Joe Greenwood | MaRS |
-| Kristina Verner | Waterfront TO |
+| Aaron Barter | Waterfront Toronto |
+| Alex Ryan | MaRS Discovery District |
+| Charles Finley | Code for Canada |
+| Chris Makris | MaRS Discovery District |
+| Joe Greenwood | MaRS Discovery District |
+| Kristina Verner | Waterfront Toronto |
 | Michel Girard | Centre for International Governance Innovation |
-| Mikayla Zolis | MaRS |
-| Sasha Sud | MaRS |
-| Sergio De Lara | MaRS |
+| Mikayla Zolis | MaRS Discovery District |
+| Sasha Sud | MaRS Discovery District |
+| Sergio De Lara | MaRS Discovery District |
 | Sharon Bauer | KPMG |
 | Timothy Banks | nNovation LLP |
-| Vanessa Matos | MaRS |
+| Vanessa Matos | MaRS Discovery District |
 
 ## **Disclaimer**
 
