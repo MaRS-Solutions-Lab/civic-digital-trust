@@ -15,6 +15,7 @@ The process is convened by the MaRS Solutions Lab working in partnership with Wa
 | Charles Finley | Code for Canada |
 | Chris Makris | MaRS Discovery District |
 | Joe Greenwood | MaRS Discovery District |
+| Kevin Stolarick | Inclusive Design Research Centre, OCAD University |
 | Kristina Verner | Waterfront Toronto |
 | Michel Girard | Centre for International Governance Innovation |
 | Mikayla Zolis | MaRS Discovery District |
