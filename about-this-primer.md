@@ -8,8 +8,6 @@ This is a conversation that Toronto, Canada is just starting to have. The proces
 
 The process is convened by the MaRS Solutions Lab working in partnership with Waterfront Toronto. Partial funding has also been provided by Sidewalk Labs. The following people have been interviewed, attended co-design workshops, and/or directly contributed content to this Gitbook:
 
-//We would like to include all participants and contributors here, but we will not include your name and affiliation until we receive your written consent.
-
 | Name | Affiliation |
 | :--- | :--- |
 | Aaron Barter | Waterfront TO |
@@ -17,9 +15,12 @@ The process is convened by the MaRS Solutions Lab working in partnership with Wa
 | Chris Makris | MaRS |
 | Joe Greenwood | MaRS |
 | Kristina Verner | Waterfront TO |
+| Michel Girard | Centre for International Governance Innovation |
 | Mikayla Zolis | MaRS |
 | Sasha Sud | MaRS |
 | Sergio De Lara | MaRS |
+| Sharon Bauer | KPMG |
+| Timothy Banks | nNovation LLP |
 | Vanessa Matos | MaRS |
 
 ## **Disclaimer**
