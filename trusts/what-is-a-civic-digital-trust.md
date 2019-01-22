@@ -26,3 +26,5 @@ The diagram below summarizes the essential elements of a civic digital trust.
 
 ![Essential elements of a civic digital trust.](../.gitbook/assets/data-trust-visualization%20%281%29.png)
 
+A civic digital trust must always be aligned to the specific data and digital assets at issue. Therefore, a trust that oversees public realm data \(and possibly other data\) from Quayside might have some unique features not seen in other civic digital trusts to date.
+
