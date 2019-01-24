@@ -29,7 +29,7 @@ There are many existing models for how to agree the use of data between multiple
 
 ### **Data Collaboratives** 
 
-* Data collaboratives are based on similar principles to cooperative and joint ventures but have typically been where private data holders or holders of different types of data have jointly sought to put their data towards the public good - there is a collaboration to use the data in a wider interest than their own. 
+* Data Collaboratives are a new form of collaboration, beyond the public-private partnership model, in which participants from different sectors — in particular private-sector actors –  exchange their data to create public value. Data collaboratives are an emerging model for unlocking the value of corporate data to find new, innovative, and data-driven solutions to combat public problems. 
   * The agreements now become framed around the wider outcomes and beneficiaries rather than the needs of the participants themselves 
   * Enforcement of agreements and data use is still between the parties in the data collaborative 
 

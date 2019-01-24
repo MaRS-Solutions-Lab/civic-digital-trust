@@ -11,7 +11,9 @@ The process is convened by the MaRS Solutions Lab working in partnership with Wa
 | Name | Affiliation |
 | :--- | :--- |
 | Aaron Barter | Waterfront Toronto |
+| Andrew Young | The Governance Lab |
 | Alex Ryan | MaRS Discovery District |
+| Beth Coleman | Faculty of Arts, University of Waterloo |
 | Charles Finley | Code for Canada |
 | Chris Makris | MaRS Discovery District |
 | Joe Greenwood | MaRS Discovery District |
